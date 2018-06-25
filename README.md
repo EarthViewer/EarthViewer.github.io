@@ -1,6 +1,3 @@
-# Earth Viewer
-3D globe geo-browser applications built with the Web WorldWind virtual globe SDK from NASA and ESA.
-
 ## [Explorer](https://viewer.earth/explorer) 
 General purpose 3D globe geo-browser with maps, imagery, terrain, markers and place name finder.
 
