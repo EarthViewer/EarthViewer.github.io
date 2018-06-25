@@ -1,1 +1,3 @@
 theme: jekyll-theme-slate
+title: Earth Viewer
+description: 3D globe geo-browser applications built with the Web WorldWind virtual globe SDK from NASA and ESA.
