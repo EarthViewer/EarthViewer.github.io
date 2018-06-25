@@ -10,23 +10,26 @@ Geography, civilizations and cartography of the Holy Land on a 3D virtual globe.
 - Web App: [https://viewer.earth/bible-atlas](https://viewer.earth/bible-atlas)
 - Source code: [https://github.com/earthviewer/bible-atlas](https://github.com/earthviewer/bible-atlas)
 
-## Weather (planned)
+---
+
+### Weather _(coming)_
 Weather observations and forecasts
 
-## Wildfires (planned)
+### Wildfires _(coming)_
 Wildfire locations and behaviors
 
-## Scenes (planned)
-Recorded scenes with playback
-
-## Photos (planned)
-Geotagged photos viewed in the context of the globe
-
-## Earthquakes (coming)
+### Earthquakes _(coming)_
 Earthquake locations and magnitudes
 
-## Climate (coming)
-Climate data
-
-## Tactical (coming)
+### Tactical _(coming)_
 MilSymbol symbology 
+
+### Climate _(planned)_
+Global climate data
+
+### Scenes _(planned)_
+Recorded scenes with playback
+
+### Photos _(planned)_
+Geotagged photos viewed in the context of the globe
+
