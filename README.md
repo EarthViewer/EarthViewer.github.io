@@ -2,7 +2,7 @@
 General purpose 3D globe geo-browser with maps, imagery, terrain, markers and place name finder.
 
 - Web app: [https://viewer.earth/explorer]( https://viewer.earth/explorer)
-- Source coee: [https://github.com/earthviewer/explorer](https://github.com/earthviewer/explorer)
+- Source code: [https://github.com/earthviewer/explorer](https://github.com/earthviewer/explorer)
 
 ## [Bible Atlas](https://viewer.earth/bible-atlas) 
 Geography, civilizations and cartography of the Holy Land on a 3D virtual globe.
@@ -23,6 +23,12 @@ Earthquake locations and magnitudes
 
 ### Tactical _(coming)_
 MilSymbol symbology 
+
+### HAM _(planned)_
+Amateur radio (ham) resources
+
+### ISS _(planned)_
+Track the International Space Station (iss)
 
 ### Climate _(planned)_
 Global climate data
