@@ -12,6 +12,9 @@ Geography, civilizations and cartography of the Holy Land on a 3D virtual globe.
 
 ---
 
+### Mars _(Next!)_
+Martian places, imagery and terrain featuring the upcoming [InSight landing](https://www.nasa.gov/mission_pages/insight/main/index.html).
+
 ### Weather _(coming)_
 Weather observations and forecasts
 
