@@ -1,19 +1,22 @@
 ## [Explorer](https://viewer.earth/explorer) 
-General purpose 3D globe geo-browser with maps, imagery, terrain, markers and place name finder.
+![alt text](https://viewer.earth/explorer/images/world.png "Explorer logo") General purpose 3D globe geo-browser with maps, imagery, terrain, markers and place name finder.
 
 - Web app: [https://viewer.earth/explorer]( https://viewer.earth/explorer)
-- Source code: [https://github.com/earthviewer/explorer](https://github.com/earthviewer/explorer)
+- Project: [https://github.com/earthviewer/explorer](https://github.com/earthviewer/explorer)
 
 ## [Bible Atlas](https://viewer.earth/bible-atlas) 
-Geography, civilizations and cartography of the Holy Land on a 3D virtual globe.
+![alt text](https://viewer.earth/bible-atlas/images/mapicons/cross-2.png "Bible Atlas logo") Geography, civilizations and cartography of the Holy Land on a 3D virtual globe.
 
 - Web App: [https://viewer.earth/bible-atlas](https://viewer.earth/bible-atlas)
-- Source code: [https://github.com/earthviewer/bible-atlas](https://github.com/earthviewer/bible-atlas)
+- Project: [https://github.com/earthviewer/bible-atlas](https://github.com/earthviewer/bible-atlas)
+
+### [Mars](https://viewer.earth/mars) _(Work in progress!)_
+![alt text](https://viewer.earth/mars/images/mars-icon.png "Mars logo") Martian places, imagery and terrain featuring the upcoming [InSight landing](https://www.nasa.gov/mission_pages/insight/main/index.html).
+
+- Web App: [https://viewer.earth/mars](https://viewer.earth/mars)
+- Project: [https://github.com/earthviewer/mars](https://github.com/earthviewer/mars)
 
 ---
-
-### Mars _(Next!)_
-Martian places, imagery and terrain featuring the upcoming [InSight landing](https://www.nasa.gov/mission_pages/insight/main/index.html).
 
 ### Weather _(coming)_
 Weather observations and forecasts
